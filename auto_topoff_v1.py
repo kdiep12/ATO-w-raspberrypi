@@ -1,5 +1,5 @@
 from gpiozero import DigitalInputDevice, DigitalOutputDevice
-from time import sleep
+from time import sleep, time
 import logging
 
 #Configure logging
